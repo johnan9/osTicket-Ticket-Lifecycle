@@ -121,7 +121,7 @@ Jane Doe is handling three tickets as a Help Desk agent. She is to:
 <b>Assignment:</b>
   
 - Jane Doe receives the ticket and starts making appropriate changes.
-- Jane assigns the priority to <b>High</b>, since the Adobe Reader being down for the entire department might impact business.
+- Jane assigns the Priority to <b>High</b>, since the Adobe Reader being down for the entire department might impact business.
 - She assigns the ticket to <b>John Doe</b>.
 - She set the SLA Plan to <b>SEV-B</b>, so the ticket will be handled within 4 hours on 24/7 schedule.
 </p>
@@ -167,7 +167,7 @@ Jane Doe is handling three tickets as a Help Desk agent. She is to:
 <b>Assignment:</b>
 
 - Jane Doe receives the ticket and starts making appropriate changes.
-- Jane Doe assigns the ticket’s priority to <b>Low</b>, since this is a general inquiry about updates on their current tablets.
+- Jane Doe assigns the ticket’s Priority to <b>Low</b>, since this is a general inquiry about updates on their current tablets.
 - She assigns to the ticket to herself, so that she can reply with a solution to the inquiry herself.
 - She changes to the SLA Plan to <b>SEV-C</b>, where the ticket must be handled within 8 hours in normal business days.
 </p>
