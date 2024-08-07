@@ -39,6 +39,14 @@ https://i.imgur.com/7BVpvK1.png
 https://i.imgur.com/p3gdGzz.png
 https://i.imgur.com/MmnQpsQ.png
 https://i.imgur.com/gEGvLE7.png
+https://i.imgur.com/Ek5NSeW.png
+https://i.imgur.com/j7oFeFp.png
+https://i.imgur.com/MVN5afn.png
+https://i.imgur.com/MVR6Rpj.png
+https://i.imgur.com/b2KG6ge.png
+https://i.imgur.com/1JPjIwH.png
+https://i.imgur.com/TYpTV1e.png
+https://i.imgur.com/x9OVNMV.png
 
 
 
